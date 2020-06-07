@@ -2,6 +2,7 @@
 - Texte simple
 - Texte **gras**
 - Texte *italique*
+- Texte gars et _**italique**_
 
 ## Titre H2
 `Code`
@@ -14,7 +15,8 @@
 
 ##### Titre H5
 - [ ] Mr & Mme tout le monde
-- [x] Web developper
+- [ ] Président des USA
+- [x] Web developper @BeCode.org
 
 ###### Titre H6
-> Markdown is fun :smile:
+> Markdown is fun :smile: :nerd:

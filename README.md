@@ -2,4 +2,4 @@
 Texte simple
 
 ### Sous-titre
-‘Code‘
+`Code`

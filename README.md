@@ -7,6 +7,12 @@
 ## Titre H2
 `Code`
 
+```javascript
+<script type="text/javascript">
+    alert("Hello!");
+</script>
+```
+
 ### Titre H3
 [Google](http://google.com)
 
@@ -19,7 +25,7 @@
 - [x] Web developper @BeCode.org
 
 ###### Titre H6
-Markdown is fun :smile: :nerd_face:
+Markdown is fun :smile: :nerd_face: :mask:
 > Citation
 1. Point 1
 1. Point 2
